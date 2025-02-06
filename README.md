@@ -29,11 +29,8 @@ Welcome to my GitHub profile! I'm **Christophe Verdier**, a passionate AI engine
 
 ### 📫 How to reach me:
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/cverdier/)
-- 📧 Email: [christophe.verdier@sponge-theory.ai]
-- 🌐 Website: [https://sponge-theory.ai]
-
-### ⚡ Fun Fact:
-I’m always exploring ways to push the boundaries of AI in unexpected applications, from predictive health models for birds to AI-generated video tools! 🦜📹✨
+- 📧 Email: [christophe.verdier@sponge-theory.ai](christophe.verdier@sponge-theory.ai)
+- 🌐 Website: [https://sponge-theory.ai](https://sponge-theory.ai)
 
 Thanks for stopping by! Let's build something awesome together! 🚀
 
