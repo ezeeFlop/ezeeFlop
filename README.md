@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Christophe Verdier**, a passionate AI engineer and entrepreneur, working on cutting-edge AI solutions for various industries. I founded **Sponge Theory**, a consulting company specializing in AI-powered applications, web & mobile development, and AI-driven APIs for industry and retail challenges.
+Welcome to my GitHub profile! I'm **Christophe Verdier**, a passionate FDE AI engineer and entrepreneur, working on cutting-edge AI solutions for various industries. I founded **Sponge Theory**, a consulting company specializing in AI-powered applications, web & mobile development, and AI-driven APIs for industry and retail challenges.
 
 ### 🚀 What I’m working on:
 - **AI-powered SaaS services**: Rapidly developing specialized AI SaaS tools.
